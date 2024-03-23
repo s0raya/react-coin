@@ -1,0 +1,14 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 0;
+    margin: 30px 30px;
+}
+
+.card_coin {
+    list-style: none;
+    width: 200px;
+    text-align: center;
+}
